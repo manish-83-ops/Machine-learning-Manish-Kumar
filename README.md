@@ -1,2 +1,3 @@
 # Machine-learning-basic-project
-this is my first git repo
+This is my first repo
+
