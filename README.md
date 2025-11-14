@@ -4,8 +4,8 @@ ive done
 
   <ul>
 <li> basic python ( built calculator)</li>
-> practiced numpy 
-> created a simple code for demonstrating gradient descent.
-> gonna update afterwards.....
-> </ul>
+<li>practiced numpy </li>
+<li> created a simple code for demonstrating gradient descent.</li>
+<li> gonna update afterwards.....</li>
+</ul>
 
