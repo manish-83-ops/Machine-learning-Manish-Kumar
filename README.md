@@ -1,4 +1,4 @@
-<marquee>Machine-learning-basic-project</marquee>
+<h1>Machine-learning-basic-project</h1>
 This is my first repo
 ive done 
 
